@@ -3,10 +3,4 @@
 
 ----------------------------------------------------------------------------
 
-
-
-
-
-
-
 22 May 2022 : Code for finding the kth Smallest element in the binary Search Tree.
