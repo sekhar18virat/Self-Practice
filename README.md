@@ -4,3 +4,7 @@
 ----------------------------------------------------------------------------
 
 22 May 2022 : Code for finding the kth Smallest element in the binary Search Tree.
+
+----------------------------------------------------------------------------
+
+23 May 2022 : Learned about different types of Bitwise operators.
