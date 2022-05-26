@@ -16,4 +16,8 @@
 ----------------------------------------------------------------------------
 
 25 May 2022 : 1.Program to check if the number is valid or not.
+----------------------------------------------------------------------------
+
+26 May 2022 : 1.Program to count the number of words that have characters present in the puzzle only using Bitwise Operators.
+
               
