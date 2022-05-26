@@ -13,3 +13,7 @@
 
 24 May 2022 : 1.Program to find the position of right most bit 
               2. Program to count number of set bits
+----------------------------------------------------------------------------
+
+25 May 2022 : 1.Program to check if the number is valid or not.
+              
