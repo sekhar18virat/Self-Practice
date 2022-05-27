@@ -19,5 +19,8 @@
 ----------------------------------------------------------------------------
 
 26 May 2022 : 1.Program to count the number of words that have characters present in the puzzle only using Bitwise Operators.
+----------------------------------------------------------------------------
+
+27 May 2022 : 1. Program to check the Starting node of the loop in a LinkedList.
 
               
