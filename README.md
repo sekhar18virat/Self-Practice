@@ -22,5 +22,8 @@
 ----------------------------------------------------------------------------
 
 27 May 2022 : 1. Program to check the Starting node of the loop in a LinkedList.
+----------------------------------------------------------------------------
+
+28 May 2022 : 1. Program to find the element that has occured Just once where other elements have occured twice.
 
               
