@@ -25,5 +25,8 @@
 ----------------------------------------------------------------------------
 
 28 May 2022 : 1. Program to find the element that has occured Just once where other elements have occured twice.
+----------------------------------------------------------------------------
+
+30 May 2022 : 1. Program to find whether the number is power of two or not.
 
               
