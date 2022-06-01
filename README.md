@@ -32,5 +32,8 @@
 
 31 May 2022 : 1. Program to remove duplicates in the sorted linked list.
               2. Program to find the two elements that have occured once in the array where other elements have occured twice.
+----------------------------------------------------------------------------
+
+1 Jun 2022 : 1. Program to find the element that is missing and one repetitive element in range 1 to n.
               
               
