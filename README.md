@@ -35,5 +35,7 @@
 ----------------------------------------------------------------------------
 
 1 Jun 2022 : 1. Program to find the element that is missing and one repetitive element in range 1 to n.
-              
+----------------------------------------------------------------------------
+
+2 Jun 2022 : 1. Program to add two binary numbers.       
               
