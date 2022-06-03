@@ -40,4 +40,4 @@
 2 Jun 2022 : 1. Program to add two binary numbers.       
 ----------------------------------------------------------------------------
 
-2 Jun 2022 : 1.Program to find the number of triplets that satisfy the given condition
+3 Jun 2022 : 1.Program to find the number of triplets that satisfy the given condition
