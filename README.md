@@ -41,3 +41,6 @@
 ----------------------------------------------------------------------------
 
 3 Jun 2022 : 1.Program to find the number of triplets that satisfy the given condition
+----------------------------------------------------------------------------
+
+3 Jun 2022 : 1.Program to find number Of Steps required to reduce the number to 1
