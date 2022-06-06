@@ -44,3 +44,7 @@
 ----------------------------------------------------------------------------
 
 4 Jun 2022 : 1.Program to find number Of Steps required to reduce the number to 1
+----------------------------------------------------------------------------
+
+6 Jun 2022 : 1. Program to find the numbers with same number of set bits.
+
