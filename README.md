@@ -47,4 +47,7 @@
 ----------------------------------------------------------------------------
 
 6 Jun 2022 : 1. Program to find the numbers with same number of set bits.
+----------------------------------------------------------------------------
+
+7 Jun 2022 : 1. Program to find the xor of sum of all pairs in given array
 
