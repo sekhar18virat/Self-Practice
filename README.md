@@ -50,4 +50,8 @@
 ----------------------------------------------------------------------------
 
 7 Jun 2022 : 1. Program to find the xor of sum of all pairs in given array
+----------------------------------------------------------------------------
+
+8 Jun 2022 : 1. Program to find occurence of the element by using linear search
+
 
