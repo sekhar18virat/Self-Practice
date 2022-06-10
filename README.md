@@ -53,5 +53,7 @@
 ----------------------------------------------------------------------------
 
 8 Jun 2022 : 1. Program to find occurence of the element by using linear search
+----------------------------------------------------------------------------
 
+10 Jun 2022 : 1. Program to find Longest SubString without repeating Characters.
 
