@@ -56,4 +56,7 @@
 ----------------------------------------------------------------------------
 
 10 Jun 2022 : 1. Program to find Longest SubString without repeating Characters.
+----------------------------------------------------------------------------
+
+11 Jun 2022 : 1. Implementation of Binary Search
 
