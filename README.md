@@ -60,3 +60,7 @@
 
 11 Jun 2022 : 1. Implementation of Binary Search
 
+----------------------------------------------------------------------------
+
+22 Jun 2022 : 1. Program to implement Insertion Sort.
+
